@@ -1,0 +1,31 @@
+@media(max-width: 1400px) {
+.center {
+	margin: 0 7%;
+	width: 63%;
+	}
+main {
+	padding: 56px 3%; 
+}
+.left {
+	width: 21.6%; 
+}
+.btn_vote, .btn_participate {
+	margin-top: 30px;
+}
+.center_container_item {
+	padding: 30px 36px 37px 38px;
+}
+.center_item_subtitle {
+	width: 100%;
+	max-width: 400px;
+}
+.center_container_item_wrapper {
+	justify-content: flex-start;
+}
+.center_item_btm-title {
+	margin-right: 30px;
+}
+.btn_vote {
+	margin-right: 30px;
+}
+}
