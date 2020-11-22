@@ -4,7 +4,7 @@
 	width: 63%;
 	}
 main {
-	padding: 56px 3%; 
+	padding: 56px 3% 150px 3%; 
 }
 .left {
 	width: 21.6%; 
@@ -27,5 +27,12 @@ main {
 }
 .btn_vote {
 	margin-right: 30px;
+}
+}
+
+
+@media(max-width: 1730px) {
+.center_item_btm_margin {
+	margin-right: 170px;
 }
 }
